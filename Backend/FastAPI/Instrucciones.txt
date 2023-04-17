@@ -1,0 +1,4 @@
+* pip install "fastapi[all]"
+* pip install "uvicorn[standard]"
+* touch main.py
+* uvicorn main:app --reload
